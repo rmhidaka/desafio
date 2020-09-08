@@ -186,6 +186,8 @@ Api
 http://localhost:8088
 ```
 
+## Observações
 
-
+1. Foi utilizado o bootstrapcdn desta forma é necessário estar conectado na internet devido as configurações
+2. Todo o conteúdo do front fica na pasta front na raiz do projeto. Foi utilizado desta forma para aproveitar um mesmo projeto, porém esta totalmente separado front e back, onde fazem a conexão apenas por api
 
