@@ -173,3 +173,19 @@ Output
      ],
    }
 ```
+
+## Endereços
+
+Front
+```
+http://localhost/
+```
+
+Api
+```
+http://localhost:8088
+```
+
+
+
+
