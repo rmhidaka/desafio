@@ -186,8 +186,9 @@ Api
 http://localhost:8088
 ```
 
-##Api-Collection
+## Api-Collection
 
+Para o consumo da api, foi disponibilizado na raiz do projeto uma collection com os endpoints
 ```
 Desafio.postman_collection.json
 ```
