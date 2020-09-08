@@ -13,17 +13,15 @@
         type: 'line',
         data: {
             labels: [
-                'Setembro',
-                'Outubro',
-                'Novembro',
-                'Dezembro'
+                'Novos',
+                'Pendentes',
+                'Entregues'
             ],
             datasets: [{
                 data: [
                     24003,
                     23489,
-                    24092,
-                    15339
+                    24092
                 ],
                 lineTension: 0,
                 backgroundColor: 'transparent',
@@ -35,8 +33,7 @@
                 data: [
                     15339,
                     21345,
-                    18483,
-                    24003
+                    18483
                 ],
                 lineTension: 0,
                 backgroundColor: 'transparent',
