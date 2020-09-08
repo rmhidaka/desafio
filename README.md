@@ -1,14 +1,14 @@
 ## Como configurar Laravel, Nginx, e MySQL com Docker Compose
 ## Passo 1 — Fazendo download do Projeto e instalando dependências
 
-Primeiramente, verifique se você está no seu diretório home e faça uma cópia da versão mais recente do Projeto para um diretório chamado laravel-app:
+Primeiramente, verifique se você está no seu diretório home e faça uma cópia da versão mais recente do Projeto para um diretório chamado desafio:
 
     $ cd ~
-    $ git clone https://github.com/acarlosos/desafio laravel-app
+    $ git clone https://github.com/rmhidaka/desafio desafio
 
-Vá até o diretório laravel-app:
+Vá até o diretório desafio:
 
-    $ cd ~/laravel-app
+    $ cd ~/desafio
 
 Em seguida, utilize a imagem do composer para montar os diretórios que você precisará para seu projeto:
 
@@ -16,7 +16,7 @@ Em seguida, utilize a imagem do composer para montar os diretórios que você pr
 
 Como passo final, defina as permissões no diretório do projeto para que ele seja propriedade do seu usuário não root:
 
-    sudo chown -R $USER:$USER ~/laravel-app
+    sudo chown -R $USER:$USER ~/desafio
 
 ## Passo 2 - Modificando as configurações do ambiente e executando os contêineres
 
