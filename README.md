@@ -76,7 +76,7 @@ Para colocar essas configurações em um arquivo de cache, que irá aumentar a v
 
 Suas definições da configuração serão carregadas em /var/www/bootstrap/cache/config.php no contêiner.
 
-Como passo final, visite http://localhost no navegador. 
+Como passo final, visite http://localhost:8088 no navegador. 
 Você verá a seguinte página inicial para seu aplicativo Laravel:
 
 <img src="https://assets.digitalocean.com/articles/laravel_docker/laravel_home.png" >
