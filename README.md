@@ -186,6 +186,12 @@ Api
 http://localhost:8088
 ```
 
+##Api-Collection
+
+```
+Desafio.postman_collection.json
+```
+
 ## Observações
 
 1. Foi utilizado o bootstrapcdn desta forma é necessário estar conectado na internet devido as configurações
